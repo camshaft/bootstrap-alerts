@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-alerts",
+  "version": "2.3.0",
+  "description": "Bootstrap alerts Component",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CamShaft/bootstrap-alerts.git"
+  },
+  "author": "",
+  "license": "APLv2",
+  "readmeFilename": "Readme.md",
+  "devDependencies": {
+    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.3.0.tar.gz",
+    "recess": "~1.1.6"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-alerts",
+  "repo": "CamShaft/bootstrap-alerts",
+  "description": "Bootstrap alerts Component",
+  "version": "2.2.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "APLv2",
+  "styles": [
+    "bootstrap-alerts.css"
+  ]
+}
